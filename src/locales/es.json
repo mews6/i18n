@@ -4,5 +4,8 @@
     "Salary": "Salario",
     "City": "Ciudad",
     "PublicationDate": "Fecha de publicación",
-    "Views": "No. de visitas"
+    "Views": "No. de visitas",
+    "1MSalary":"{value} Millón",
+    "DiffSalary":"{value} Millones",
+    "GenericString":"{value}"
 }
